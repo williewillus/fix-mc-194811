@@ -1,8 +1,8 @@
 {
   "required": true,
-  "package": "com.example.examplemod.mixin",
+  "package": "williewillus.fix_mc_194811.mixin",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "examplemod.refmap.json",
+  "refmap": "fix_mc_194811.refmap.json",
   "mixins": [
   ],
   "client":[
